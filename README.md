@@ -68,7 +68,9 @@ Confusion Matrix for detailed performance analysis
 
 **Key Findings:**
 **KNN** outperformed other models with a test accuracy of **96.3%**.
+
 Logistic Regression and SVM demonstrated reasonable performance but were outperformed by KNN.
+
 The CNN model showed potential, and future improvements like data augmentation and hyperparameter tuning could enhance its performance.
 
 ## 🚀 Future Work
