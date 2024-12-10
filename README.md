@@ -65,6 +65,7 @@ Confusion Matrix for detailed performance analysis
 
 ## 📊 Results
 <img width="720" alt="Screenshot 2024-12-10 at 10 08 04" src="https://github.com/user-attachments/assets/30bde52b-fbe8-4387-8b9c-7dbf42b1b17e">
+
 **Key Findings:**
 **KNN** outperformed other models with a test accuracy of **96.3%**.
 Logistic Regression and SVM demonstrated reasonable performance but were outperformed by KNN.
@@ -79,18 +80,18 @@ To further improve the project, we plan to:
 **Ensemble Methods:** Combine multiple models to achieve better generalization.
 
 ## 📦 Installation and Usage
-**Prerequisites
-Python 3.x
-Libraries:
-numpy
-pandas
-librosa
-matplotlib
-scikit-learn
-tensorflow / keras**
+**Prerequisites**
+**Python 3.x**
+**Libraries:**
+****numpy**
+****pandas**
+****librosa**
+**matplotlib**
+**scikit-learn**
+**tensorflow / keras**
 
 ## 🤝 Contributors
-**Naga Gayatri Bandaru
-Shaik Faiz Ahamed**
+**Naga Gayatri Bandaru****
+****Shaik Faiz Ahamed**
 
 I have shared this project on GitHub to help others who are interested in **music information retrieval**, **audio classification**, and **machine learning**.
