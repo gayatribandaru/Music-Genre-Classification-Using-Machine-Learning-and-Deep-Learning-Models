@@ -137,7 +137,7 @@ To further improve the project, we plan to:
 
 ## 🤝 Contributors
 
-**Naga Gayatri Bandaru****
+**Naga Gayatri Bandaru**
 
 **Shaik Faiz Ahamed**
 
