@@ -1,6 +1,6 @@
 # 🎵 Music Genre Classification Using Machine Learning and Deep Learning Models
 
-This project was developed by Naga Gayatri Bandaru and Shaik Faiz Ahamed. It focuses on classifying music tracks into their respective genres using a combination of machine learning and deep learning techniques. The dataset used is the GTZAN Music Genre Dataset, which contains 10 distinct genres: Blues, Classical, Country, Disco, Hip-Hop, Jazz, Metal, Pop, Reggae, and Rock.
+This project was developed by **Naga Gayatri Bandaru** and **Shaik Faiz Ahamed**. It focuses on classifying music tracks into their respective genres using a combination of machine learning and deep learning techniques. The dataset used is the GTZAN Music Genre Dataset, which contains 10 distinct genres: Blues, Classical, Country, Disco, Hip-Hop, Jazz, Metal, Pop, Reggae, and Rock.
  
 
 ---
@@ -15,7 +15,7 @@ This project was created to:
 
 - **Learn and apply** machine learning and deep learning techniques.
   
-- **Classify music genres** based on audio features.
+- **Classify music genres** based on audio features
 
 - **Compare the performance** of different models like Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and Convolutional Neural Networks (CNN).
 
