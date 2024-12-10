@@ -118,17 +118,27 @@ To further improve the project, we plan to:
 ## 📦 Installation and Usage
 
 **Prerequisites**
+
 **Python 3.x**
+
 **Libraries:**
-****numpy**
-****pandas**
-****librosa**
+
+**numpy**
+
+**pandas**
+
+**librosa**
+
 **matplotlib**
+
 **scikit-learn**
+
 **tensorflow / keras**
 
 ## 🤝 Contributors
+
 **Naga Gayatri Bandaru****
-****Shaik Faiz Ahamed**
+
+**Shaik Faiz Ahamed**
 
 I have shared this project on GitHub to help others who are interested in **music information retrieval**, **audio classification**, and **machine learning**.
